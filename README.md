@@ -26,8 +26,8 @@ This is a simple social media backend API built using Node.js, Express, and Mong
 2. Create a `.env` file and add the following environment variables
 
    - PORT=5000
-   - MONGO_URI=mongodb+srv://arhamtab18:GkFPNN4YqLA02Q9k@cluster0.ymx6bvp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-   - JWT_SECRET=thisissecretkeyforjwt
+   - MONGO_URI=your_mongo_uri_here
+   - JWT_SECRET=your_jwt_secret_here
 
 
 3. Start the server
